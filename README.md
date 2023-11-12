@@ -21,3 +21,6 @@ For running a HyRes simulation, two steps are necessary:
 After these two steps, HyRes simulation can be run through  
 `python run.nvt.py pdb_file psf_file GPU_id`   
 details can be found in the folder of [run_OpenMM](https://github.com/wayuer19/HyRes_GPU/tree/main/run_OpenMM).
+
+## Key contributors
+Xiaorong Liu, Yumeng Zhang, Shanlong Li, Xiping Gong and Jianhan Chen
