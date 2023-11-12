@@ -24,3 +24,5 @@ details can be found in the folder of [run_OpenMM](https://github.com/wayuer19/H
 
 ## Key contributors
 Xiaorong Liu, Yumeng Zhang, Shanlong Li, Xiping Gong and Jianhan Chen
+
+## Contact: Jianhan Chen (jianhanc@umass.edu)
